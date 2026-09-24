@@ -1,5 +1,6 @@
 # BrandMetrics AI
-<img width="1168" height="784" alt="rFhqL" src="https://github.com/user-attachments/assets/a5ceeb1f-158c-40fd-8b0f-d3e259666637" />
+
+<img width="600" alt="BrandMetrics AI Logo" src="https://github.com/user-attachments/assets/a5ceeb1f-158c-40fd-8b0f-d3e259666637" />
 
 **Business Intelligence Brand Kit & Analytics Platform**  
 *Business Intelligence Enterprise*
@@ -27,16 +28,14 @@ BrandMetrics AI combines personal branding copy generation with real data analyt
 ## Screenshots
 
 ### 1. Brand Data Insights Dashboard
-![BrandMetrics AI – Insights Dashboard]<img width="1168" height="784" alt="image" src="https://github.com/user-attachments/assets/026d249c-b2fa-4c5c-b421-f75b94e170eb" />
 
-
+<img width="900" alt="Brand Data Insights Dashboard" src="https://github.com/user-attachments/assets/026d249c-b2fa-4c5c-b421-f75b94e170eb" />
 
 *KPI banner, keyword density, tone profile, platform character fit, and A/B divergence analysis.*
 
 ### 2. Multi-Platform Ad Cards with Predictive CTR
-![BrandMetrics AI – Ad Cards & CTR]<img width="1168" height="784" alt="MwkX3" src="https://github.com/user-attachments/assets/aa09d527-bc93-4451-a629-98d8314e26a9" />
 
-
+<img width="900" alt="Ad Cards with Predictive CTR" src="https://github.com/user-attachments/assets/aa09d527-bc93-4451-a629-98d8314e26a9" />
 
 *Platform-specific ad cards showing Hook, Body, CTA, predicted CTR, and detected CTR drivers.*
 
@@ -113,28 +112,10 @@ Open [http://localhost:3000](http://localhost:3000)
 ```
 brand-story-generator/
 ├── src/
-│   ├── app/                    # Next.js App Router pages
-│   │   ├── page.tsx            # Landing
-│   │   ├── create/             # Questionnaire + generation
-│   │   ├── login/
-│   │   ├── dashboard/
-│   │   └── api/generate/
+│   ├── app/
 │   ├── components/
-│   │   ├── Questionnaire.tsx
-│   │   ├── StoryResults.tsx
-│   │   ├── BrandInsights.tsx
-│   │   ├── PlatformAdCard.tsx
-│   │   ├── SpreadsheetGrid.tsx
-│   │   ├── PrintTemplate.tsx
-│   │   └── ...
 │   ├── lib/
-│   │   ├── ai.ts               # AI generation + mock
-│   │   ├── analytics.ts        # Full analytics engine
-│   │   ├── auth.ts
-│   │   └── utils.ts
 │   ├── utils/
-│   │   ├── pdfExporter.ts
-│   │   └── csvExporter.ts
 │   └── types/
 └── ...
 ```
@@ -145,7 +126,6 @@ brand-story-generator/
 
 - Replace client-side auth with **NextAuth.js / Auth.js** + a real database (Prisma + PostgreSQL or MongoDB).
 - Deploy on **Vercel** — connect the repo and set environment variables.
-- For Google login, configure OAuth credentials in NextAuth.
 - Rate-limit the `/api/generate` endpoint and add usage quotas when moving to production.
 - The analytics engine runs entirely in the browser — no extra backend cost.
 
@@ -153,12 +133,12 @@ brand-story-generator/
 
 ## Scripts
 
-| Command         | Description              |
-|-----------------|--------------------------|
-| `npm run dev`   | Start development server |
-| `npm run build` | Production build         |
-| `npm start`     | Start production server  |
-| `npm run lint`  | Run ESLint               |
+| Command | Description |
+|---------|-------------|
+| `npm run dev` | Start development server |
+| `npm run build` | Production build |
+| `npm start` | Start production server |
+| `npm run lint` | Run ESLint |
 
 ---
 
