@@ -1,4 +1,5 @@
 # BrandMetrics AI
+<img width="1168" height="784" alt="rFhqL" src="https://github.com/user-attachments/assets/a5ceeb1f-158c-40fd-8b0f-d3e259666637" />
 
 **Business Intelligence Brand Kit & Analytics Platform**  
 *Business Intelligence Enterprise*
