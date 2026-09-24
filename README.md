@@ -26,13 +26,15 @@ BrandMetrics AI combines personal branding copy generation with real data analyt
 ## Screenshots
 
 ### 1. Brand Data Insights Dashboard
-![BrandMetrics AI – Insights Dashboard]<img width="1168" height="784" alt="Cq0ie (1)" src="https://github.com/user-attachments/assets/c4634ab4-61ca-4fdf-b2f0-d2986d9bb9a9" />
+![BrandMetrics AI – Insights Dashboard]<img width="1168" height="784" alt="image" src="https://github.com/user-attachments/assets/026d249c-b2fa-4c5c-b421-f75b94e170eb" />
+
 
 
 *KPI banner, keyword density, tone profile, platform character fit, and A/B divergence analysis.*
 
 ### 2. Multi-Platform Ad Cards with Predictive CTR
-![BrandMetrics AI – Ad Cards & CTR]<img width="1168" height="784" alt="MwkX3" src="https://github.com/user-attachments/assets/08ec947e-d296-4bbb-85de-1995e86d93ab" />
+![BrandMetrics AI – Ad Cards & CTR]<img width="1168" height="784" alt="MwkX3" src="https://github.com/user-attachments/assets/aa09d527-bc93-4451-a629-98d8314e26a9" />
+
 
 
 *Platform-specific ad cards showing Hook, Body, CTA, predicted CTR, and detected CTR drivers.*
