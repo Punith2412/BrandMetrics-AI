@@ -26,7 +26,8 @@ BrandMetrics AI combines personal branding copy generation with real data analyt
 ## Screenshots
 
 ### 1. Brand Data Insights Dashboard
-![BrandMetrics AI – Insights Dashboard](<img width="1168" height="784" alt="image" src="https://github.com/user-attachments/assets/06b83d91-93a6-4e9d-be30-5cddfe91b746" />
+![BrandMetrics AI – Insights Dashboard](<img width="1168" height="784" alt="Cq0ie (1)" src="https://github.com/user-attachments/assets/c4634ab4-61ca-4fdf-b2f0-d2986d9bb9a9" />
+
 )
 
 *KPI banner, keyword density, tone profile, platform character fit, and A/B divergence analysis.*
